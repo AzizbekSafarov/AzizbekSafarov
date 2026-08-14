@@ -1,22 +1,26 @@
-### Hey, I'm Azizbek 👋
+### Azizbek Safarov
 
-Software builder focusing on high-performance desktop apps, developer tools, and embedded hardware.
-
----
-
-#### 🔨 Active Projects
-- **[FOCUS](https://github.com/AzizbekSafarov/FOCUS)** — A lightweight, high-performance deep-work study suite engineered with Tauri and Rust.
-- **[geminiai](https://github.com/AzizbekSafarov/geminiai)** — Automated tool-calling pipeline and multimodal intelligence framework in Python.
-- **[Network](https://github.com/AzizbekSafarov/Network)** — Asynchronous microservice engine and distributed API routing layer.
+I build high-performance native desktop applications, systems software, and explore embedded telemetry hardware.
 
 ---
 
-#### 🛠 Core Stack
-- **Languages:** Rust, TypeScript, Python, JavaScript, SQL
-- **Frameworks & Runtimes:** Tauri, React, Next.js, FastAPI, Node.js
-- **Data & Systems:** SQLite, PostgreSQL, Docker, Redis, Linux
+#### 🔭 Featured Open-Source
+
+- **[FOCUS](https://github.com/AzizbekSafarov/FOCUS)** — High-performance, local-first deep-work study suite built with Tauri, Rust, and React. Sub-15ms launch, zero telemetry, local SQLite accounting.
+- **[geminiai](https://github.com/AzizbekSafarov/geminiai)** — Lightweight multimodal tool-calling execution pipeline in Python.
+- **[Network](https://github.com/AzizbekSafarov/Network)** — High-throughput asynchronous microservice routing engine.
 
 ---
 
-#### 📬 Reach Out
+#### ⚙️ Technical Focus
+
+- **Systems & Native:** Rust, Tauri, SQLite, C/Embedded Basics, Linux
+- **Frontend & Runtimes:** TypeScript, React, Next.js, Node.js, Tailwind CSS
+- **Backend & APIs:** Python, FastAPI, Asynchronous IO, PostgreSQL, Docker, Redis
+- **Research & Hardware:** Multi-Agent Orchestration (MCP), Telemetry & Sensor Pipelines
+
+---
+
+#### 📬 Contact
+
 - Email: [iphoneapple2008sss@gmail.com](mailto:iphoneapple2008sss@gmail.com)
