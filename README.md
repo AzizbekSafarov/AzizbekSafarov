@@ -1,189 +1,157 @@
 <div align="center">
 
-  <!-- COSMIC GALAXY BANNER -->
+  <!-- HERO BANNER -->
   <a href="https://github.com/AzizbekSafarov">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090919,30:1E1B4B,70:4C1D95,100:0284C7&height=260&section=header&text=AZIZBEK%20SAFAROV&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=🌌%20AI%20Engineer%20%7C%20Deep%20Space%20Tech%20%7C%20Full-Stack%20Architect&descFontSize=20&descAlignY=66&descAlign=50" width="100%" alt="Cosmic Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,90&height=220&section=header&text=Azizbek%20Safarov&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Space%20Tech&descFontSize=18&descAlignY=62" width="100%" alt="Azizbek Safarov Header" />
   </a>
 
-  <!-- FLOATING ASTRONAUT & GALAXY VISUAL -->
+  <!-- DYNAMIC TYPING SVG -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="50" alt="Milky Way" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" alt="Rocket" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="50" alt="Planet" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Telescope.png" width="50" alt="Telescope" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="50" alt="Satellite" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+MCP+Systems;Desktop+Architecture+%28Tauri+%2B+Rust+%2B+React%29;Space+Hardware+%26+Deep+Tech+Explorer;Engineering+High-Throughput+Cloud+Services" alt="Typing SVG" />
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=🌌+Building+Autonomous+AI+Systems;🛰+Deep+Space+Hardware+%26+CubeSat+Explorer;⚡+Full-Stack+Architect+%28Next.js+%2B+Python%29;🚀+Engineering+the+Future+of+Deep+Tech" alt="Cosmic Typing SVG" />
-  </p>
-
-  <p align="center">
-    <a href="mailto:iphoneapple2008sss@gmail.com"><img src="https://img.shields.io/badge/Cosmic_Contact-iphoneapple2008sss%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Mission_Base-Tashkent%2C%20Uzbekistan-0284C7?style=for-the-badge&logo=spacex&logoColor=white" />
+    <a href="mailto:iphoneapple2008sss@gmail.com"><img src="https://img.shields.io/badge/Direct_Contact-iphoneapple2008sss%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### 🛰 Kosmik Missiya & Men Haqimda (Mission & Vision)
+### 👨‍🚀 About Me
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      Men <strong>Sun'iy Intellekt</strong>, <strong>Koinot Texnologiyalari (Space Tech Hardware)</strong> va <strong>Full-Stack Tizimlar</strong> chorrahasida innovatsion dasturiy va apparat ta'minotlarini yaratishga bag'ishlangan muhandisman.
-      <br/><br/>
-      🪐 <strong>Asosiy Missiyam:</strong> Sun'iy intellekt agentlari orqali murakkab ma'lumotlarni qayta ishlash, mikrosun'iy yo'ldoshlar (CubeSat) telemetriyasi va global miqyosdagi yuqori yuklamali ilovalarni barpo etish.
-      <br/><br/>
-      🔭 <strong>Tadqiqot yo'nalishlarim:</strong>
-      <ul>
-        <li>Avtonom kognitiv AI agentlar (Autonomous Agentic Workflows & MCP)</li>
-        <li>Kosmik telemetriya, bort kompyuterlari (Onboard Computing) va sensor tarmoqlari</li>
-        <li>Ultra-tezkor asinxron API'lar va real vaqtda sinxronlashuvchi arxitektura</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=400&auto=format&fit=crop" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(124, 58, 237, 0.5);" alt="Cosmos" />
-    </td>
-  </tr>
-</table>
+I am an **AI Systems Engineer**, **Full-Stack Architect**, and **Space Tech Explorer** dedicated to engineering scalable distributed software and intelligent autonomous hardware systems.
+
+- 🔭 **Primary Focus:** Native Desktop Systems (Tauri + Rust), Autonomous Multi-Agent Orchestration (MCP / Tool-Calling), and telemetry computing.
+- 🛰 **Hardware & Deep Tech:** Embedded microcontrollers, CubeSat telemetry pipelines, and onboard sensor networks.
+- ⚡ **Engineering Principles:** Clean Architecture, modularity, type safety, and uncompromising performance.
 
 ---
 
-### 🏆 Galaktik Yutuqlar & Trofeylar (Trophies)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AzizbekSafarov&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🛠 Texnologik Arsenali (Tech Stack Matrix)
+### 🛠 Core Technical Stack
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>🤖 AI & Deep Intelligence</strong></td>
-    <td align="center" width="25%"><strong>💻 Modern Frontend</strong></td>
-    <td align="center" width="25%"><strong>⚙️ Backend Core</strong></td>
-    <td align="center" width="25%"><strong>🛰 Hardware & Cloud</strong></td>
+    <td align="center" width="25%"><strong>🤖 AI & Intelligent Systems</strong></td>
+    <td align="center" width="25%"><strong>💻 Modern Frontend & Desktop</strong></td>
+    <td align="center" width="25%"><strong>⚙️ Backend & Rust Core</strong></td>
+    <td align="center" width="25%"><strong>🛰 Cloud & Infrastructure</strong></td>
   </tr>
   <tr>
     <td valign="top">
-      • Agentic Systems & MCP<br/>
-      • Python & PyTorch<br/>
-      • Vector DBs & RAG Pipelines<br/>
-      • Gemini, Claude & OpenAI APIs<br/>
-      • NLP & Computer Vision
+      • Agentic Workflows & MCP<br/>
+      • LLM Orchestration & Prompt Eng<br/>
+      • Python & PyTorch / Transformers<br/>
+      • Vector Search & RAG Pipelines<br/>
+      • Gemini, Claude & OpenAI APIs
     </td>
     <td valign="top">
-      • Next.js 14/15 (App Router)<br/>
+      • Tauri (Native Rust + Web)<br/>
       • React.js & TypeScript<br/>
-      • Tailwind CSS & UI Systems<br/>
-      • Tauri & Cross-Platform Apps<br/>
+      • Next.js (App Router, SSR)<br/>
+      • Tailwind CSS & Framer Motion<br/>
       • High-Performance Rendering
     </td>
     <td valign="top">
-      • FastAPI & Async Python<br/>
+      • Rust & Native Systems Core<br/>
+      • Python & FastAPI<br/>
       • Node.js & Express<br/>
-      • Microservices & Event-Driven<br/>
-      • WebSocket / SSE Protocols<br/>
-      • API Security & OAuth2
+      • WebSockets & Real-Time Sync<br/>
+      • OAuth2 & API Security
     </td>
     <td valign="top">
-      • Space Sensors & Microcontrollers<br/>
-      • Supabase & PostgreSQL<br/>
+      • SQLite & PostgreSQL<br/>
       • Docker & Containerization<br/>
-      • Redis & Caching Layers<br/>
-      • CI/CD & GitHub Actions
+      • Redis & Local Caching Layers<br/>
+      • CI/CD & Automated Test Suites<br/>
+      • Git & GitHub Workflows
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Asosiy Loyihalar (Flagship Repositories)
+### 🚀 Flagship Projects
 
 <table>
   <tr>
-    <th width="50%">Loyiha & Arxitektura</th>
-    <th width="50%">Texnologiyalar & Havolalar</th>
+    <th width="50%">Project & Architecture</th>
+    <th width="50%">Tech Stack & Repository</th>
   </tr>
   <tr>
     <td>
-      <strong>🎓 SEF — Gamified Learning Ecosystem</strong><br/>
-      Talabalar uchun streaklar, unumdorlik va ta'lim monitoringi platformasi.
+      <strong>🎯 FOCUS — High-Performance Deep-Work Study Suite</strong><br/>
+      Ultra-fast native desktop application engineered with Tauri and Rust for deep work sessions, streak analytics, and distraction-free academic study.
     </td>
     <td>
-      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind</code><br/>
-      🔗 <a href="https://sef-fswc.vercel.app">Jonli Demo (Live App)</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🤖 Agentjon — Multimodal Autonomous AI Agent</strong><br/>
-      Google Gemini multimodal imkoniyatlari bilan integratsiyalashgan avtonom Telegram assistenti.
-    </td>
-    <td>
-      <code>Python</code> <code>Gemini 2.5</code> <code>AsyncIO</code> <code>Docker</code><br/>
-      📦 <a href="https://github.com/AzizbekSafarov">Repozitoriy</a>
+      <code>Tauri</code> <code>Rust</code> <code>React</code> <code>TypeScript</code> <code>SQLite</code><br/>
+      📦 <a href="https://github.com/AzizbekSafarov/FOCUS">AzizbekSafarov/FOCUS</a>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>🌍 NovaGrants — Global Opportunities Scraper</strong><br/>
-      Xalqaro grantlar va ta'lim dasturlarini avtomatik yig'uvchi va tahlil qiluvchi aqlli scraper.
+      <strong>🤖 Gemini AI — Intelligent Autonomous Pipeline</strong><br/>
+      Automated intelligence framework powered by Google Gemini multimodal models and tool-calling execution.
     </td>
     <td>
-      <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Scraping</code><br/>
-      📦 <a href="https://github.com/AzizbekSafarov">Repozitoriy</a>
+      <code>Python</code> <code>Gemini API</code> <code>AsyncIO</code><br/>
+      📦 <a href="https://github.com/AzizbekSafarov/geminiai">AzizbekSafarov/geminiai</a>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>🎯 FOCUS — High-Performance Desktop Suite</strong><br/>
-      Tauri va Rust yadro arxitekturasi asosidagi yuqori tezlikdagi tadqiqot dasturi.
+      <strong>🌐 Network Core — Distributed Microservice Engine</strong><br/>
+      Scalable API routing and backend service orchestration infrastructure.
     </td>
     <td>
-      <code>Tauri</code> <code>Rust</code> <code>React</code> <code>SQLite</code><br/>
-      📦 <a href="https://github.com/AzizbekSafarov">Repozitoriy</a>
+      <code>Python</code> <code>Flask</code> <code>Microservices</code><br/>
+      📦 <a href="https://github.com/AzizbekSafarov/Network">AzizbekSafarov/Network</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🚀 Ambassadors — Community Management Platform</strong><br/>
+      Global student ambassador workflows and project lifecycle dashboard.
+    </td>
+    <td>
+      <code>Node.js</code> <code>JavaScript</code> <code>Express</code><br/>
+      📦 <a href="https://github.com/AzizbekSafarov/ambassadors">AzizbekSafarov/ambassadors</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Galaktik Faollik & Statistikasi (Cosmic Live Metrics)
+### 📊 Live GitHub Activity & Insights
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AzizbekSafarov&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AzizbekSafarov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekSafarov&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="370" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekSafarov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="370" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizbekSafarov&theme=synthwave&hide_border=true" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizbekSafarov&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌌 Bog'lanish (Communication Portal)
+### 📬 Get In Touch
 
 <div align="center">
-  <p>Koinot texnologiyalari, chuqur sun'iy intellekt yoki global startaplar bo'yicha muloqotga doim tayyorman!</p>
-  
-  <a href="mailto:iphoneapple2008sss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/AzizbekSafarov"><img src="https://img.shields.io/badge/GitHub_Base-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <p>Interested in collaborating on AI systems, deep tech startups, or scalable software architecture?</p>
+  <a href="mailto:iphoneapple2008sss@gmail.com"><img src="https://img.shields.io/badge/Email_Me-iphoneapple2008sss%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/AzizbekSafarov"><img src="https://img.shields.io/badge/GitHub-AzizbekSafarov-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- COSMIC FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0284C7,30:4C1D95,70:1E1B4B,100:090919&height=120&section=footer" width="100%" alt="Cosmic Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40,90&height=100&section=footer" width="100%" alt="Footer" />
 </div>
