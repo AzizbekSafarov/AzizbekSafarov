@@ -127,12 +127,12 @@ At **Hyperion Silicon & Space Laboratory**, I research and architect **Zero-Cool
 ## 📊 Live Telemetry & GitHub Orbital Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzizbekSafarov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=c084fc&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AzizbekSafarov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=c084fc&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=AzizbekSafarov&theme=tokyonight&hide_border=true&background=030712&ring=c084fc&fire=38bdf8&currStreakNum=c084fc&sideNums=38bdf8&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekSafarov&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=c084fc&text_color=94a3b8" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AzizbekSafarov&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=c084fc&text_color=94a3b8" width="400" alt="Top Languages" />
 </div>
 
 ---
