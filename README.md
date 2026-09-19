@@ -54,7 +54,7 @@
   <tr>
     <td align="center"><b>🌌 Thermodynamic Breakthrough</b></td>
     <td align="center"><code>2028 – 2030</code></td>
-    <td><b>Break Planetary AI Limits via 2.7 Kelvin Cosmic Vacuum Radiative Sinking</b><br/>Direct passive thermal shedding into deep space via Stefan-Boltzmann blackbody radiation: $\mathbf{Q = arepsilon \sigma A (T^4 - T_{space}^4)}$. Zero terrestrial freshwater consumption, zero terrestrial power grid drain.</td>
+    <td><b>Break Planetary AI Limits via 2.7 Kelvin Cosmic Vacuum Radiative Sinking</b><br/>Direct passive thermal shedding into deep space via Stefan-Boltzmann blackbody radiation: <code>Q = ε · σ · A · (T⁴ - T_space⁴)</code>. Zero terrestrial freshwater consumption, zero terrestrial power grid drain.</td>
     <td align="center"><img src="https://img.shields.io/badge/HEAT_SINK-2.7K_VACUUM-06b6d4?style=flat-square" /></td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
     <td align="center"><imgDE-3b82f6?style=flat-square" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🇺🇿 Sovereign Deep-Tech Empire</b></td>
+    <td align="center"><b>🌐 Sovereign Deep-Tech Empire (Uzbekistan & Global)</b></td>
     <td align="center"><code>2026 – 2031+</code></td>
     <td><b>Build Uzbekistan's First Sovereign Space & Semiconductor Laboratory</b><br/>Transforming our sovereign nation into an international aerospace powerhouse, building native deep-tech infrastructure, cleanrooms, and satellite research facilities that lead the global scientific arena.</td>
     <td align="center"><img src="https://img.shields.io/badge/VISION-SOVEREIGN_R%26D-f59e0b?style=flat-square" /></td>
