@@ -7,29 +7,73 @@
 
 <!-- HIGH-PRECISION TERMINAL TELEMETRY PROMPT -->
 <a href="https://github.com/AzizbekSafarov">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=1100&color=C084FC&center=true&vCenter=true&multiline=false&width=840&height=45&lines=%3E+initializing+hyperion-core+--orbit%3DLEO+--radiation%3Dsynaptic;%3E+coupled+Maxwell-Fourier+%26+drift-diffusion+solver%3A+active;%3E+architecting+zero-coolant+bio-silicon+for+space+AI+clusters;%3E+creator+of+FOCUS+%E2%80%A2+native+high-performance+Rust+%2B+Tauri;%3E+target%3A+MIT+EECS+(Course+6-2)+%26+AeroAstro+(Course+16)+%E2%80%A2+Class+of+2031" alt="Typing Telemetry" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=C084FC&center=true&vCenter=true&multiline=false&width=940&height=46&lines=%3E+GOAL+1%3A+Deploy+Humanity%27s+1st+Orbital+AI+Supercomputing+Cluster+into+Deep+Space%3B%3E+GOAL+2%3A+Replace+Fragile+Silicon+with+Zero-Coolant+Bio-Synaptic+Space+Microchips%3B%3E+GOAL+3%3A+Solve+Planetary+AI+Energy-Cooling+Crisis+via+2.7K+Cosmic+Vacuum+Sinking%3B%3E+GOAL+4%3A+MIT+Dual-Degree%3A+Aerospace+Engineering+%26+EECS+%E2%80%A2+Full-Ride+Class+of+2031%3B%3E+GOAL+5%3A+Build+Hyperion+Space+Lab+into+a+Multi-Billion+Sovereign+Deep-Tech+Giant%3B%3E+CREED%3A+Expanding+Earth%27s+Intelligence+Across+the+Stars+%E2%80%A2+Per+Aspera+Ad+Astra" alt="Monumental Strategic Directives" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION-ORBITAL_COMPUTE-05050a?style=flat-square&logo=spacex&logoColor=00f2fe&labelColor=090d16&color=7c3aed" />
-  <img src="https://img.shields.io/badge/TARGET-MIT_CLASS_OF_2031-05050a?style=flat-square&logo=mit&logoColor=c084fc&labelColor=090d16&color=3b82f6" />
-  <img src="https://img.shields.io/badge/RESEARCH-BIO--SILICON-05050a?style=flat-square&logo=micro-editor&logoColor=34d399&labelColor=090d16&color=10b981" />
-  <img src="https://img.shields.io/badge/THERMAL-VACUUM_PHOTON_SHEDDING-05050a?style=flat-square&logo=nasa&logoColor=fbbf24&labelColor=090d16&color=f59e0b" />
+  <img src="https://img.shields.io/badge/MISSION-ORBITAL_SUPERCOMPUTING-05050a?style=flat-square&logo=spacex&logoColor=00f2fe&labelColor=090d16&color=7c3aed" />
+  <img src="https://img.shields.io/badge/TARGET-MIT_DUAL_DEGREE_CLASS_OF_2031-05050a?style=flat-square&logo=mit&logoColor=c084fc&labelColor=090d16&color=3b82f6" />
+  <img src="https://img.shields.io/badge/HARDWARE-BIO--SYNAPTIC_SILICON-05050a?style=flat-square&logo=micro-editor&logoColor=34d399&labelColor=090d16&color=10b981" />
+  <img src="https://img.shields.io/badge/THERMODYNAMICS-DEEP_SPACE_2.7K-05050a?style=flat-square&logo=nasa&logoColor=fbbf24&labelColor=090d16&color=f59e0b" />
 </p>
 
 ---
 
 <p align="center">
-  <b>«Mens et Manus» (Mind and Hand)</b><br/>
-  Candidate: <b>MIT Department of Electrical Engineering & Computer Science (Course 6-2)</b> & <b>Department of Aeronautics and Astronautics (Course 16)</b> • <b>Class of 2031</b><br/>
-  Bridging non-equilibrium theoretical physics, biological synaptic resilience, and astronautical systems engineering to take planetary-scale AI compute beyond Earth's thermodynamic limits.
+  <b>«MENS ET MANUS» (MIND AND HAND)</b><br/>
+  <b>FOUNDER & CHIEF ARCHITECT — HYPERION SILICON & SPACE LABORATORY</b><br/>
+  <b>MIT Dual Degree Candidate: Aerospace Engineering & EECS • Class of 2031 (100% Full-Ride)</b><br/>
+  <i>Pioneering orbital AI supercomputer clusters, radiation-immune bio-silicon microchips, and vacuum radiative thermodynamics to take planetary-scale computing beyond Earth's biosphere.</i>
 </p>
 
 </div>
 
 <br/>
 
-## 🌌 The Cosmic Frontier: Hyperion Silicon & Space Laboratory
+## 🌌 Grand Planetary Directives & Strategic Milestones (2026 – 2031)
+
+<table>
+  <tr>
+    <th align="center">Monumental Directive</th>
+    <th align="center">Target Horizon</th>
+    <th align="center">Strategic Scope & Technological Breakthrough</th>
+    <th align="center">Target Metric</th>
+  </tr>
+  <tr>
+    <td align="center"><b>🛰️ Orbital AI Supercomputers</b></td>
+    <td align="center"><code>2027 – 2028</code></td>
+    <td><b>Deploy Humanity's First Orbital Supercomputer Cluster in Deep Space</b><br/>Terrestrial AI clusters are hitting an irreversible ecological and energy wall. We take the compute burden off Earth, placing gigawatt-scale neural compute directly in Low-Earth Orbit and deep space, powered by 24/7 unattenuated solar radiation.</td>
+    <td align="center"><img src="https://img.shields.io/badge/SCALE-ORBITAL_CLUSTER-7c3aed?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 Zero-Coolant Bio-Silicon</b></td>
+    <td align="center"><code>2026 – 2028</code></td>
+    <td><b>Architect 100% Cosmic Radiation-Immune Synaptic Processors</b><br/>Eliminating convective water/fan cooling entirely. Fabricating neuromorphic bio-silicon lattices where cosmic heavy-ion strikes and Single-Event Upsets (SEUs) are absorbed as harmless statistical noise rather than fatal hardware crashes.</td>
+    <td align="center"><img src="https://img.shields.io/badge/FAULT_TOLERANCE-99.999%25-10b981?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌌 Thermodynamic Breakthrough</b></td>
+    <td align="center"><code>2028 – 2030</code></td>
+    <td><b>Break Planetary AI Limits via 2.7 Kelvin Cosmic Vacuum Radiative Sinking</b><br/>Direct passive thermal shedding into deep space via Stefan-Boltzmann blackbody radiation: $\mathbf{Q = arepsilon \sigma A (T^4 - T_{space}^4)}$. Zero terrestrial freshwater consumption, zero terrestrial power grid drain.</td>
+    <td align="center"><img src="https://img.shields.io/badge/HEAT_SINK-2.7K_VACUUM-06b6d4?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏛️ MIT Dual-Degree Leadership</b></td>
+    <td align="center"><code>Class of 2031</code></td>
+    <td><b>MIT Aerospace Engineering & EECS Dual Degree • 100% Full-Ride Scholar</b><br/>Rigorous academic and research mastery bridging theoretical physics, non-linear partial differential equations (PDEs), quantum electrodynamics, and orbital spacecraft architecture under the MIT <i>Mens et Manus</i> doctrine.</td>
+    <td align="center"><imgDE-3b82f6?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🇺🇿 Sovereign Deep-Tech Empire</b></td>
+    <td align="center"><code>2026 – 2031+</code></td>
+    <td><b>Build Uzbekistan's First Sovereign Space & Semiconductor Laboratory</b><br/>Transforming our sovereign nation into an international aerospace powerhouse, building native deep-tech infrastructure, cleanrooms, and satellite research facilities that lead the global scientific arena.</td>
+    <td align="center"><img src="https://img.shields.io/badge/VISION-SOVEREIGN_R%26D-f59e0b?style=flat-square" /></td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Scientific Foundations: Hyperion Silicon & Space Laboratory
 
 Terrestrial computing has reached a hard thermodynamic and ecological wall. Terawatt-scale AI data clusters cannot expand on Earth without devouring municipal power grids and evaporating billions of gallons of freshwater.
 
@@ -40,7 +84,7 @@ Space provides continuous 24/7 solar flux and a 2.7 Kelvin cosmic microwave back
 At **Hyperion Silicon & Space Laboratory**, I research and architect **Zero-Coolant Neuromorphic Bio-Silicon**:
 1. **Bio-Synaptic Radiation Resilience:** Non-von Neumann architectures that treat heavy-ion cosmic strikes as statistical neural noise rather than fatal hardware parity crashes.
 2. **Vacuum Radiative Dissipation:** Substrates engineered specifically to shed heat directly into deep space via passive Stefan-Boltzmann photon emission:  
-   $$\mathbf{Q = \varepsilon \sigma A (T^4 - T_{space}^4)}$$
+   $$\mathbf{Q = arepsilon \sigma A (T^4 - T_{space}^4)}$$
 
 ---
 
@@ -100,7 +144,7 @@ At **Hyperion Silicon & Space Laboratory**, I research and architect **Zero-Cool
     │  • 2.7K Vacuum Heat Sink     │  • Drift-Diffusion in Silicon │
     │  • Keplerian Orbital Vectors │  • Stochastic Synaptic Noise  │
     ├──────────────────────────────┼───────────────────────────────┤
-    │  AP CALCULUS BC & MIT OCW    │  COGNITIVE SYSTEMS            │
+    │  ADVANCED MATHEMATICS        │  COGNITIVE MASTERY            │
     │  • Multi-variable Calculus   │  • The 30/70 Generation Rule  │
     │  • Non-linear Coupled PDEs   │  • Desirable Difficulty (FSRS)│
     │  • Taylor Series Expansions  │  • Polya Heuristic Derivation │
