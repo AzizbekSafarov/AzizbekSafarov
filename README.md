@@ -83,8 +83,11 @@ Space provides continuous 24/7 solar flux and a 2.7 Kelvin cosmic microwave back
 
 At **Hyperion Silicon & Space Laboratory**, I research and architect **Zero-Coolant Neuromorphic Bio-Silicon**:
 1. **Bio-Synaptic Radiation Resilience:** Non-von Neumann architectures that treat heavy-ion cosmic strikes as statistical neural noise rather than fatal hardware parity crashes.
-2. **Vacuum Radiative Dissipation:** Substrates engineered specifically to shed heat directly into deep space via passive Stefan-Boltzmann photon emission:  
-   $$\mathbf{Q = arepsilon \sigma A (T^4 - T_{space}^4)}$$
+2. **Vacuum Radiative Dissipation:** Substrates engineered specifically to shed heat directly into deep space via passive Stefan-Boltzmann photon emission:
+
+$$
+Q = \varepsilon \cdot \sigma \cdot A \cdot (T^4 - T_{space}^4)
+$$
 
 ---
 
